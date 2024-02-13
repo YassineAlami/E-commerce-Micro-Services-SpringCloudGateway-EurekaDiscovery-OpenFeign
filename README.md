@@ -12,7 +12,7 @@ the following schema summarizes and simplifies what have been said to make it le
 
 
 
-after establishing the feachesr of our micro service, now we can access the h2 console to display our customer
+after establishing the feature of our micro service, now we can access the h2 console to display our customer
 ![Screenshot (1685)](https://github.com/YassineAlami/E-commerce-Micro-Services-with-Spring-Cloud/assets/40896739/257f0dbb-289e-411f-8b53-10bd9c3d391d)
 
 
