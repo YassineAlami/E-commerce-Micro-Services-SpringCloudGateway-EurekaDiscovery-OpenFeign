@@ -106,7 +106,7 @@ in a nutshell, we can now reach out from the billing microservice to our other m
 
 
 
-and ofc, we can alose access our BILLING-SERVICE via the gateway to get either the general list of bills or we can specify a cetain bill to get more details about it.
+and ofc, we can also access our BILLING-SERVICE via the gateway to get either the general list of bills or we can specify a cetain bill to get more details about it.
 
 ![Screenshot (1707) ](https://github.com/YassineAlami/E-commerce-Micro-Services-with-Spring-Cloud/assets/40896739/49355628-6cc1-48e0-b372-ba4dc7ed8440)
 
