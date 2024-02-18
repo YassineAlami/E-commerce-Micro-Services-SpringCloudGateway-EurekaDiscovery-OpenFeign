@@ -17,7 +17,7 @@ the utilization of the Open Feign framework. <br>
 
 <hr>
 
-Architecture:
+Architecture:<br>
 the following schema summarizes and simplifies what have been said to make it less confusing:
 
 ![Screenshot (1684)](https://github.com/YassineAlami/E-commerce-Micro-Services-with-Spring-Cloud/assets/40896739/c3282572-b05a-458d-bc24-a8ac4eb93a3a)
