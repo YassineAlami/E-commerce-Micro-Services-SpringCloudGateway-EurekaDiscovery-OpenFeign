@@ -4,13 +4,26 @@ The third microservice of significance is the Spring Cloud Gateway. The configur
 and dynamically, employing the 'DiscoveryClientRouteDefinitionLocator' object, among other methods. 
 At this stage, we introduced the Eureka Discovery Service to enhance overall system coherence and discoverability.
 To make things more interesting we incorporated an additional microservice: the 'billing-service' This entity was designed to facilitate communication with the previously established microservices, athis was made possible by
-the utilization of the Open Feign framework.
+the utilization of the Open Feign framework. <br>
 
+☑️ Create the micro-service "customer-service" to manage customers.<br>
+☑️ Create the micro-service "inventory-service" to manage products.<br>
+☑️Create the Spring Cloud Gateway.<br>
+☑️ Static configuration of the routing system.<br>
+☑️ Create the Eureka Discovery Service.<br>
+☑️ Perform dynamic configuration of the gateway routes.<br>
+☑️ Create the service "Billing-Service" using Open Feign.<br>
+☑️ Create an Angular Web client (Clients, Products, Invoices)<br>
+
+<hr>
+
+Architecture:
 the following schema summarizes and simplifies what have been said to make it less confusing:
 
 ![Screenshot (1684)](https://github.com/YassineAlami/E-commerce-Micro-Services-with-Spring-Cloud/assets/40896739/c3282572-b05a-458d-bc24-a8ac4eb93a3a)
 
-
+<hr>
+Steps : <br><br><br>
 
 after establishing the feature of our micro service, now we can access the h2 console to display our customer
 ![Screenshot (1685)](https://github.com/YassineAlami/E-commerce-Micro-Services-with-Spring-Cloud/assets/40896739/257f0dbb-289e-411f-8b53-10bd9c3d391d)
